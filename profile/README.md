@@ -1,12 +1,23 @@
-## Hi there 👋
+# Mentarch
 
-<!--
+Developing novel solutions to interesting problems.
 
-**Here are some ideas to get you started:**
+## Featured Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### [Reading Agent](https://github.com/mentarch/reading-agent)
+An intelligent research assistant that automatically monitors sources like arXiv and PubMed, filters papers by topic, generates summaries using OpenAI, and delivers personalized research digests. Key features include:
+
+- Multi-source article monitoring (PubMed, arXiv)
+- Topic-based filtering
+- AI-powered content summarization
+- Automated email digests
+- Comprehensive service management
+- Article tracking and deduplication
+
+## Organization Focus
+
+At Mentarch, we focus on:
+- Building innovative solutions for complex problems
+- Leveraging AI and automation to enhance productivity
+- Creating robust, production-ready applications
+- Open-source development
